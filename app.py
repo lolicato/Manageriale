@@ -19,7 +19,6 @@ def fix_accented_characters(text):
 
 import streamlit as st
 import pandas as pd
-import os
 
 # Set page configuration to wide layout
 st.set_page_config(layout="wide")
